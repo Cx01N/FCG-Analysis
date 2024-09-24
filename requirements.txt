@@ -1,0 +1,8 @@
+networkx
+cupy
+lmoments3
+pandas
+pydot
+multiprocessing
+numpy
+pycuda
